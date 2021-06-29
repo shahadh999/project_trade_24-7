@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T10:59:04.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kegKqSnBLv1JwCbgq5Ek" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T11:02:45.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="buZN7wBmnd4U0eRFVbXM" version="14.8.2" type="github">
   <diagram id="9hqybfcc5q5ypudS5BrD" name="Page-1">
     <mxGraphModel dx="2253" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="310" y="30" as="geometry" />
         </mxCell>
         <mxCell id="EOSwnPT17PY9McPGaiq8-8" value="Notifying users" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="530" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EOSwnPT17PY9McPGaiq8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EOSwnPT17PY9McPGaiq8-4" target="EOSwnPT17PY9McPGaiq8-8" edge="1">
           <mxGeometry x="310" y="30" as="geometry" />
@@ -73,8 +73,11 @@
         <mxCell id="U_eiOTlvVRwf-Y54M-i0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EOSwnPT17PY9McPGaiq8-12" target="U_eiOTlvVRwf-Y54M-i0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U_eiOTlvVRwf-Y54M-i0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EOSwnPT17PY9McPGaiq8-12" target="U_eiOTlvVRwf-Y54M-i0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EOSwnPT17PY9McPGaiq8-12" value="Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="80" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EOSwnPT17PY9McPGaiq8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="EOSwnPT17PY9McPGaiq8-4" target="EOSwnPT17PY9McPGaiq8-12" edge="1">
           <mxGeometry x="310" y="30" as="geometry" />
@@ -89,19 +92,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U_eiOTlvVRwf-Y54M-i0-19" value="Short term buying/selling - Analysis of closing prices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-90" width="130" height="60" as="geometry" />
+          <mxGeometry x="100" y="-80" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U_eiOTlvVRwf-Y54M-i0-20" value="Business case/Why should the user this algorithm?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="U_eiOTlvVRwf-Y54M-i0-23" value="Google Trends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-200" width="130" height="60" as="geometry" />
+          <mxGeometry x="110" y="-190" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U_eiOTlvVRwf-Y54M-i0-25" value="Moving averages - 50 days and 200 days" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-160" width="130" height="60" as="geometry" />
+          <mxGeometry x="310" y="-190" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U_eiOTlvVRwf-Y54M-i0-27" value="Risk Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="750" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_eiOTlvVRwf-Y54M-i0-29" value="Correlation between USD and crypto assets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-150" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
