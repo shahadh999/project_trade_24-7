@@ -1,10 +1,10 @@
 # Project Trade 24/7
 
 ## Team Members:
-Shahadath Farouk
-Nitin Dhawan
-Hemang Lunagaria 
-Edward Kinyanjui
+1. Shahadath Farouk
+2. Nitin Dhawan
+3. Hemang Lunagaria 
+4. Edward Kinyanjui
 
 ## Project description/outline
 To what degree can Crypto prices be predicted? What if publicly available data can help forecast price fluctuations?
