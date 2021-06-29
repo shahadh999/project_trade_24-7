@@ -1,10 +1,10 @@
 # project_trade_24-7
 
 ## Team Members:
-### Shahadath 
-### ND
-### Hemang 
-### Edward 
+Shahadath 
+ND
+Hemang 
+Edward 
 
 ## Project description/outline
 To what degree can Crypto prices be predicted? What if publicly available data can help forecast price fluctuations?
