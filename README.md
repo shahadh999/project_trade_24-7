@@ -16,7 +16,7 @@ Our project is to create a trading algorithm to potentially decide a buy/sell/ho
 * Price tracking in realtime - Analysis of closing prices
 * Analyse Google Trends
 * Moving averages - 50 and 200 days
-* Rosk analysis
+* Risk analysis
 * Correlation between USD and crypto asset
 * Long term valuation
 
